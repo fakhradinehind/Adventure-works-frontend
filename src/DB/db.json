@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "fakhradine hind",
+      "email": "fakhradinehind@gmail.com",
+      "password": "hindhindhindhind",
+      "id": 1
+    },
+    {
+      "name": "ismail farahi",
+      "email": "ismailfarahi@gmail.com",
+      "password": "ismailismailismailismail",
+      "id": 2
+    },
+    {
+      "name": "hindhindhind",
+      "email": "dhdhdh@gmail.com",
+      "password": "hindhindhindhind",
+      "id": 3
+    },
+    {
+      "name": "hind hanouda",
+      "email": "hind.fakhradie@gmail.com",
+      "password": "hindhindhindhind",
+      "id": 4
+    },
+    {
+      "name": "hind fakhradine",
+      "email": "hind@gmail.com",
+      "password": "hindhindhindhind",
+      "id": 5
+    },
+    {
+      "name": "fouad fakhradine",
+      "email": "fouad@gmail.com",
+      "password": "hindhindhindhind",
+      "id": 6
+    },
+    {
+      "name": "youssef farahi",
+      "email": "yousseffarahi@gmail.com",
+      "password": "hindhindhindhind",
+      "id": 7
+    }
+  ]
+}
